@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+        "mongodb+srv://mern:mongodb@cluster0.fjamk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
