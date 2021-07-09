@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import '../App.css';
 import axios from 'axios';
 
-export class ShowBookDetails extends Component {
+class ShowBookDetails extends Component {
     constructor(props) {
         super(props);
         this.state = {

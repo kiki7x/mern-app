@@ -7,12 +7,12 @@ class UpdateBookInfo extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      title: '',
-      isbn: '',
-      author: '',
-      description: '',
-      published_date: '',
-      publisher: ''
+      title:'',
+      isbn:'',
+      author:'',
+      description:'',
+      published_date:'',
+      publisher:''
     };
   }
 
